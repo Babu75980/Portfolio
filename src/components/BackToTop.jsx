@@ -1,0 +1,1 @@
+export default function BackToTop({ show }) { return <button className={'totop' + (show ? ' show' : '')} aria-label="Back to top" tabIndex={show ? 0 : -1} onClick={() => scrollTo({ top: 0, behavior: 'smooth' })}>↑</button> }
