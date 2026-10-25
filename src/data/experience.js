@@ -7,6 +7,6 @@ export const experience = [{
     'Authored Kafka producers and consumers for asynchronous communication between microservices.',
     'Secured APIs with Spring Security, JWT, RBAC and OAuth 2.0; integrated Razorpay with webhook signature validation.',
     'Created Angular 18 standalone components for leads, customers, attendance, leave and payroll with Excel/PDF exports.',
-    'Wrote JUnit, Mockito and Playwright tests, tested APIs in Postman and kept quality in check with SonarQube.',
+    'Wrote JUnit and Mockito, tested APIs in Postman and kept quality in check with SonarQube.',
     'Deployed and supported production applications on AWS across multiple environments.',
   ] }]

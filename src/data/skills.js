@@ -10,7 +10,7 @@ export const skills = [
   { icon: ['redis'], name: 'Redis & Redisson', desc: 'Speed up hot data with caching and prevent conflicting updates with distributed locks.', n: 4, cat: 'Data & Messaging' },
   { icon: ['angular'], name: 'Angular 18', desc: 'Build standalone components, RxJS data flows and role-based UIs with TypeScript.', n: 4, cat: 'Frontend' },
   { icon: ['react'], name: 'React', desc: 'Develop component-based interfaces with hooks and reusable UI patterns.', n: 3, cat: 'Frontend' },
-  { icon: ['junit', 'postman'], name: 'Testing & Quality', desc: 'Ship with JUnit, Mockito, Playwright, Postman and SonarQube quality gates.', n: 4, cat: 'DevOps & Quality' },
+  { icon: ['junit', 'postman'], name: 'Testing & Quality', desc: 'Ship with JUnit, Mockito, Postman and SonarQube quality gates.', n: 4, cat: 'DevOps & Quality' },
   { icon: ['aws', 'docker'], name: 'AWS & Docker', desc: 'Deploy and troubleshoot containerized apps across multiple environments.', n: 4, cat: 'DevOps & Quality' },
   { icon: ['jenkins'], name: 'Jenkins CI/CD', desc: 'Automate builds and releases with Maven, Jenkins and Git workflows.', n: 4, cat: 'DevOps & Quality' },
 ]

@@ -10,7 +10,7 @@ export const profile = {
     ['</>', 'Backend Engineering', 'Spring Boot microservices, secure REST APIs, JPA/Hibernate and PostgreSQL multi-tenancy.'],
     ['≡', 'Event-Driven Systems', 'Kafka messaging, Redis caching and Redisson locks for consistent distributed workflows.'],
     ['>_', 'Frontend Delivery', 'Angular 18 standalone components, RxJS, role-based UI and Excel/PDF exports.'],
-    ['↑', 'Deploy & Quality', 'AWS, Docker, Jenkins CI/CD, JUnit, Mockito, Playwright and SonarQube.'],
+    ['↑', 'Deploy & Quality', 'AWS, Docker, Jenkins CI/CD, JUnit, Mockito and SonarQube.'],
   ],
   quote: 'Reliable systems come from clean architecture, careful testing and a habit of owning what ships.',
 }
